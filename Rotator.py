@@ -33,4 +33,4 @@ if len(sys.argv) == 3:
 
     gateway.shutdown()
 else:
-    print("\nUsage:\n  [access key id] - Insert ur aws access key id\n  [access key secret] - Insert ur aws access key secret\n  python.exe Rotator.py [access key id] [access key secret]\n")
+    print("\nROTATOR\n\nUsage:\n  [access key id]     - Insert ur aws access key id\n  [access key secret] - Insert ur aws access key secret\n\n  python.exe Rotator.py [access key id] [access key secret]\n")
